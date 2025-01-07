@@ -1,0 +1,15 @@
+{
+  "name": "dev.pro_test-assignment",
+  "version": "1.0.0",
+  "description": "Dev.Pro test assignment",
+  "main": "logger.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Diego Machado",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security"
+  }
+}
