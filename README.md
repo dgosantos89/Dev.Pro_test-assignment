@@ -23,8 +23,9 @@ See [logger.js](logger.js) file
 
 Write tests scenarios for Logger
 
-Scenarios:
+Scenarios:  
 ![scenarios](scenarios.png)
+  
 See test implementation on [logger.test.js](logger.test.js) file
 
 ## Running
